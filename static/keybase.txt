@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sgiersig
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.giersig.eu
+  * I am sgiersig (https://keybase.io/sgiersig) on keybase.
+  * I have a public key ASBeUdXKGa06RTtg2Fo_E4zW0H-43qkFJD8hthLaFOVpbQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205e51d5ca19ad3a453b60d85a3f138cd6d07fb8dea905243f21b612da14e5696d0a",
+      "host": "keybase.io",
+      "kid": "01205e51d5ca19ad3a453b60d85a3f138cd6d07fb8dea905243f21b612da14e5696d0a",
+      "uid": "4c4125a5b677cdb8f4548cabced18719",
+      "username": "sgiersig"
+    },
+    "merkle_root": {
+      "ctime": 1568930550,
+      "hash": "3f95d8b5627319aa6a615c61a4c4e1b608a70805052eeeab1dc4d8cb552f79541ef247de5ab4fdff0f64fa9d9084850dc9682e50a918248217dbc66d4c1f5041",
+      "hash_meta": "f5f90795d649cae2b7e9845b9cc3b66152f978dae8f20e26c02b119f0d6432b2",
+      "seqno": 7619325
+    },
+    "service": {
+      "entropy": "08s4niBQ4fEbQlxoZky7B9Zr",
+      "hostname": "www.giersig.eu",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1568930560,
+  "expire_in": 504576000,
+  "prev": "272c4a0d2f85bca3e36a032a98c831dbf41ff8a17885b61cd3fbf381ed46df45",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXlHVyhmtOkU7YNhaPxOM1tB/uN6pBSQ/IbYS2hTlaW0Kp3BheWxvYWTESpcCDMQgJyxKDS+FvKPjagMqmMgx2/Qf+KF4hbYc0/vzge1G30XEIFL2Q+/ewzDu05cGjjcvux1ksihJyRlKJrpJzRFkmdWKAgHCo3NpZ8RA+Ew6E5ERrd3d3L9Bb3M8xtK/pgD/5GB/R10fGsKvfslOZVlwBk/bJHFVWEWiuTfqKbt6Ja+J6GBHeZxGP6yNBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIeKZxGjxRaf6Eizh21rDLaufI7Q/7ndCYmBuTsSOH5/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sgiersig
+
+==================================================================

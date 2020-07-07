@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: svemagie.net
+Token: 1f09fb8ad8cb5316cec6374a13687ffdd8dbcfd938dc21d76baff7ec44f9448d

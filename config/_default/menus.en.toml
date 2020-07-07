@@ -1,0 +1,23 @@
+[[main]]
+  identifier = "Journal"
+  name = "journal"
+  url = "/categories/journal/"
+  weight = 1
+
+[[main]]
+  identifier = "Adventures"
+  name = "adventures"
+  url = "/categories/adventures/"
+  weight = 2
+
+[[main]]
+ identifier = "Archive"
+ name = "archiv"
+ url = "/archive"
+ weight = 5
+
+[[main]]
+  identifier = "About"
+  name = "about"
+  url = "about"
+  weight = 6
